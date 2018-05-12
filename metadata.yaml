@@ -1,0 +1,54 @@
+_repo: Urania_41941
+_version: 0.1.0
+alternative_title: Uranie. English
+contributor:
+  illustrators:
+  - agent_name: De Bieler
+    alias: Bieler, de
+    gutenberg_agent_id: '41437'
+    url: http://www.gutenberg.org/2009/agents/41437
+  - agent_name: Gambard
+    gutenberg_agent_id: '41438'
+    url: http://www.gutenberg.org/2009/agents/41438
+  - agent_name: Myrbach-Rheinfeld, Felician, Freiherr von
+    aliases:
+    - Myrbach von Rheinfeld, Felician, Freiherr
+    - Myrbach, F. de (Felicien)
+    - Myrbach, Felicien de
+    - Myrbach, Baron (Felicien)
+    birthdate: 1853
+    deathdate: 1940
+    gutenberg_agent_id: '36574'
+    url: http://www.gutenberg.org/2009/agents/36574
+  translator:
+    agent_name: Stetson, Augusta Rice
+    gutenberg_agent_id: '41439'
+    url: http://www.gutenberg.org/2009/agents/41439
+covers:
+- cover_type: archival
+  image_path: 41941-h/images/coversmall.jpg
+creator:
+  author:
+    agent_name: Flammarion, Camille
+    aliases:
+    - Filamaryon, Kamil
+    - Flammarion, Nicolas Camille
+    birthdate: 1842
+    deathdate: 1925
+    gutenberg_agent_id: '8763'
+    url: http://www.gutenberg.org/2009/agents/8763
+    wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
+description: La musa del cielo -- Jorge Spero -- Cielo y tierra.
+gutenberg_issued: '2013-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41941'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Science fiction'
+title: Urania
+url: http://www.gutenberg.org/ebooks/41941
