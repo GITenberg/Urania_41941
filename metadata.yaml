@@ -39,6 +39,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8763
     wikipedia: http://en.wikipedia.org/wiki/Camille_Flammarion
 description: La musa del cielo -- Jorge Spero -- Cielo y tierra.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41941#Urania
 gutenberg_issued: '2013-01-28'
 gutenberg_type: Text
 identifiers:
